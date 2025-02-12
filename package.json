@@ -1,0 +1,26 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "Ukol 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "prepare": "husky install"
+  },
+  "author": "Viktoriia Rudova",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viktoriiarudova/ViktoriiaRudova_Ukol1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/viktoriiarudova/ViktoriiaRudova_Ukol1.git/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.18.0",
+    "@stylistic/eslint-plugin-js": "^2.13.0",
+    "eslint": "^9.18.0",
+    "globals": "^15.14.0",
+    "husky": "^8.0.0"
+  }
+}
